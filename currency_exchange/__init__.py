@@ -1,0 +1,1 @@
+from currency_exchange.currency import Currency
